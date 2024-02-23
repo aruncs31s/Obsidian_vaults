@@ -6,10 +6,10 @@ tags: []
 
 # Tasks
 
-- [Setting Up Environment](setting-up-the-environment.md)
+- [Setting Up Environment](./Tasks/setting-up-the-environment.md)
 - [Create the Screen](./Tasks/create_screen.md)
-- [Create the Snake](create_the_snake.md)
-- [Move The Snake](move_the_snake.md)
+- [Create the Snake](./Tasks/create_the_snake.md)
+- [Move The Snake](./Tasks/move_the_snake.md)
 - Limit the Snake to the boundary 
 - Generate food
 - Increase the length of the snake when it eats

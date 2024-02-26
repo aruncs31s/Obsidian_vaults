@@ -4,7 +4,11 @@ aliases:
   - Screnen
 tags: []
 ---
-### Whole Code
+### create_screen
+Prerequisites : [[setting-up-the-environment]]
+
+#WholeCode
+
 ```python
 import pygame
 WINDOW_WIDTH = 800

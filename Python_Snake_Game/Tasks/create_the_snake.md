@@ -3,10 +3,10 @@ id: create_the_snake
 aliases: []
 tags: []
 ---
+### create_the_snake
+ Prerequisites : [[create_screen]]
 
-
-
-### Whole Code
+#WholeCode
 
 ```python
 import pygame

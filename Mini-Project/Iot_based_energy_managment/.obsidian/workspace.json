@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "f48484f8c367f7cb",
+    "id": "eb3398e7f316c7f8",
     "type": "split",
     "children": [
       {
-        "id": "3b1a09f1de6dc995",
+        "id": "bfe54f4a98485f62",
         "type": "tabs",
         "children": [
           {
-            "id": "7de6fefc7aaffabf",
+            "id": "ba036b7b1c908c12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Solar Traking/Solar Tracking.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea160bfb0a13744f",
+    "id": "a2fde37b21e8e145",
     "type": "split",
     "children": [
       {
-        "id": "cb53184f5e0f6aab",
+        "id": "422b17575e95f475",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1e9a71d9ad6d7a",
+            "id": "ed3a50e4247e28be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "224e692b9cf9457d",
+            "id": "a56d601b907635bf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "079aab77d2668270",
+            "id": "0878962bec99f05e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,19 +73,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "531c51b700ad94b9",
+    "id": "a8e1cd8f73f55ebe",
     "type": "split",
     "children": [
       {
-        "id": "98ed960e08759a8d",
+        "id": "85a2f1d828fb27da",
         "type": "tabs",
         "children": [
           {
-            "id": "23e9795ac0c2e0e0",
+            "id": "d4c335d9ce343d65",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solar Traking/Solar Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +98,19 @@
             }
           },
           {
-            "id": "84356f6278301ca0",
+            "id": "115dcfe05d92790e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solar Traking/Solar Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5534c1798f72d546",
+            "id": "54fc27483b09cb72",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +121,13 @@
             }
           },
           {
-            "id": "6550021a57101719",
+            "id": "3ef4eb90ab34e086",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Solar Traking/Solar Tracking.md"
+              }
             }
           }
         ]
@@ -139,19 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de6fefc7aaffabf",
+  "active": "ba036b7b1c908c12",
   "lastOpenFiles": [
-    "Tools/Git/Branch.md",
-    "Tools/Git/Git.md",
-    "Branch.md",
-    "Tools/Git.md",
-    "Tools/Git",
-    "Linux.md",
-    "Tools",
-    "Tools/Yazi.md",
-    "Tools/tmux.md",
-    "`Tmux`.md",
-    "Tools/Weechat.md",
-    "Tools/i3.md"
+    "NodeMCU.md",
+    "Solar Traking/1709063046-YDFT.md",
+    "Solar Traking/Solar Tracking.md",
+    "Solar Traking/Solar Tracking",
+    "Solar Traking",
+    "Solar",
+    "Solar Tracking",
+    "1709061945-RVBF.md",
+    "Energy Monitoring.md",
+    "Energy Monitoring/Energy Monitoring.md",
+    "Energy Monitoring",
+    "Iot_based_energy_managment.md",
+    "Web_Site",
+    "Welcome.md"
   ]
 }

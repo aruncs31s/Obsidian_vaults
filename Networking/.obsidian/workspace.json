@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f48484f8c367f7cb",
+    "id": "39c4bcf03c33e6fb",
     "type": "split",
     "children": [
       {
-        "id": "3b1a09f1de6dc995",
+        "id": "d0f5ae2d5b87deb5",
         "type": "tabs",
         "children": [
           {
-            "id": "7de6fefc7aaffabf",
+            "id": "a15f9714505a3785",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea160bfb0a13744f",
+    "id": "dd57f7be554dc158",
     "type": "split",
     "children": [
       {
-        "id": "cb53184f5e0f6aab",
+        "id": "9eea5db34efff20e",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1e9a71d9ad6d7a",
+            "id": "5bed5e1cefee51bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "224e692b9cf9457d",
+            "id": "3f1d9e28a59981e2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "079aab77d2668270",
+            "id": "c3fb6ecf81a89469",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,19 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "531c51b700ad94b9",
+    "id": "1e595674a2b17f5a",
     "type": "split",
     "children": [
       {
-        "id": "98ed960e08759a8d",
+        "id": "b6ebc2502a4c1726",
         "type": "tabs",
         "children": [
           {
-            "id": "23e9795ac0c2e0e0",
+            "id": "fe2e8501632b68db",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -93,7 +92,7 @@
             }
           },
           {
-            "id": "84356f6278301ca0",
+            "id": "4aca2c20a8e2cae6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -104,7 +103,7 @@
             }
           },
           {
-            "id": "5534c1798f72d546",
+            "id": "42b9ec9dbf5c91c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,7 +114,7 @@
             }
           },
           {
-            "id": "6550021a57101719",
+            "id": "488b092f70c18bc6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -139,19 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de6fefc7aaffabf",
+  "active": "a15f9714505a3785",
   "lastOpenFiles": [
-    "Tools/Git/Branch.md",
-    "Tools/Git/Git.md",
-    "Branch.md",
-    "Tools/Git.md",
-    "Tools/Git",
-    "Linux.md",
-    "Tools",
-    "Tools/Yazi.md",
-    "Tools/tmux.md",
-    "`Tmux`.md",
-    "Tools/Weechat.md",
-    "Tools/i3.md"
+    "Proxy.md",
+    "Networks.md",
+    "Forward Proxy.md",
+    "Reverse Proxy.md",
+    "Welcome.md"
   ]
 }

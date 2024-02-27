@@ -1,4 +1,10 @@
+#### *Basics*
+- [[Branch]]
+
+
+
 - [Merge Conflict](#mergeconflict)
+
 
 
 - To upload local folder/repo to `github`

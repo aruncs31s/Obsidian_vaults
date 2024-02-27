@@ -1,14 +1,32 @@
 {
   "main": {
-    "id": "f48484f8c367f7cb",
+    "id": "3b76c4d9b6f9c173",
     "type": "split",
     "children": [
       {
-        "id": "3b1a09f1de6dc995",
+        "id": "207f4607120938af",
         "type": "tabs",
         "children": [
           {
-            "id": "7de6fefc7aaffabf",
+            "id": "7890fe97df21e997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tic Tac Toe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "404b108799df3bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578ee28a232dae8a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -21,15 +39,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea160bfb0a13744f",
+    "id": "181cfcfd857c264d",
     "type": "split",
     "children": [
       {
-        "id": "cb53184f5e0f6aab",
+        "id": "08c40f80acd075cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1e9a71d9ad6d7a",
+            "id": "1df9812f6e966257",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +57,7 @@
             }
           },
           {
-            "id": "224e692b9cf9457d",
+            "id": "e5d5471df9d9310d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +72,7 @@
             }
           },
           {
-            "id": "079aab77d2668270",
+            "id": "f16a7a6ce40417db",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,19 +87,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "531c51b700ad94b9",
+    "id": "df0dbd9de13f1069",
     "type": "split",
     "children": [
       {
-        "id": "98ed960e08759a8d",
+        "id": "473680ff87fe0877",
         "type": "tabs",
         "children": [
           {
-            "id": "23e9795ac0c2e0e0",
+            "id": "6966644746516bfa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tic Tac Toe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +112,19 @@
             }
           },
           {
-            "id": "84356f6278301ca0",
+            "id": "0cdfc6dc4a9b4908",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tic Tac Toe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5534c1798f72d546",
+            "id": "dab861b812cb6cb8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +135,13 @@
             }
           },
           {
-            "id": "6550021a57101719",
+            "id": "448157c37f00b12f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tic Tac Toe.md"
+              }
             }
           }
         ]
@@ -139,19 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de6fefc7aaffabf",
+  "active": "7890fe97df21e997",
   "lastOpenFiles": [
-    "Tools/Git/Branch.md",
-    "Tools/Git/Git.md",
-    "Branch.md",
-    "Tools/Git.md",
-    "Tools/Git",
-    "Linux.md",
-    "Tools",
-    "Tools/Yazi.md",
-    "Tools/tmux.md",
-    "`Tmux`.md",
-    "Tools/Weechat.md",
-    "Tools/i3.md"
+    "Tic Tac Toe.md",
+    "Welcome.md"
   ]
 }

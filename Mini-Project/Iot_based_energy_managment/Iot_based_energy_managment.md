@@ -39,7 +39,7 @@ tags: []
 ##### ESP32
 
 
-<img src="/Images/esp32.png" alt="esp32" width="100" height="75" />
+<img src="/obsidian-vault/Mini-Project/Iot_based_energy_managment/Images/esp32.png" alt="esp32" width="100" height="75" />
 
 
 

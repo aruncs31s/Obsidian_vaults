@@ -11,12 +11,8 @@
             "id": "da1960eb0ac8072d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iot_based_energy_managment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iot_based_energy_managment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iot_based_energy_managment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iot_based_energy_managment.md"
-              }
+              "state": {}
             }
           }
         ],

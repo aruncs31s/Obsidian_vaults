@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a8e1cd8f73f55ebe",
@@ -151,9 +150,10 @@
   },
   "active": "da1960eb0ac8072d",
   "lastOpenFiles": [
-    "ESP32.md",
-    "Energy Monitoring/Energy Monitoring.md",
     "Iot_based_energy_managment.md",
+    "ESP32.md",
+    "Pasted image 20240229115956.png",
+    "Energy Monitoring/Energy Monitoring.md",
     "Pasted image 20240229113108.png",
     "Pasted image 20240229113053.jpg",
     "Home Automation/Home Automation.md",

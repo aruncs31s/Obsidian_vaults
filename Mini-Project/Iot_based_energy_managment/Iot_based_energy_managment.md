@@ -10,3 +10,8 @@ tags: []
 - [[Energy Monitoring]] 
 - [[Solar Tracking]]
 - [[Home Automation]]
+
+#### Block Diagram
+
+
+

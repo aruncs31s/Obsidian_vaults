@@ -13,18 +13,23 @@ tags: []
  
 #cost
 
-| Item       | Cost    |
-| ---------- | ------- |
-| ESP32      | 579 Rs  |
-| PIR Sensor | Item2.2 |
-| Item1.3    | Item2.3 |
-| Item1.4    | Item2.4 |
+| Item       | Cost   |
+| ---------- | ------ |
+| ESP32      | 579 Rs |
+| PIR Sensor | 149 Rs |
 
 
+
+
+##### ESP32
+
+![[Pasted image 20240229090022.png]]
 
 ##### Relay Module
+![[Pasted image 20240229112459.png]]
 Relays are electromechanical switches that are used to control the flow of electricity in a circuit.
 - Relay Module provides `isolation` between ==Signal== and ==Load==
 
 ##### PIR Sensor
+![[Pasted image 20240229085733.png]]
 *PIR sensors detect changes in infrared radiation within their field of view, which occur when a person enters or moves within the sensor's detection range*

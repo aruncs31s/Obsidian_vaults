@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Automation/Home Automation.md",
+                "file": "Iot_based_energy_managment.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Componets_Required",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Automation/Home Automation.md",
+                "file": "Iot_based_energy_managment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Automation/Home Automation.md",
+                "file": "Iot_based_energy_managment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Automation/Home Automation.md"
+                "file": "Iot_based_energy_managment.md"
               }
             }
           }
@@ -151,15 +151,23 @@
   },
   "active": "da1960eb0ac8072d",
   "lastOpenFiles": [
-    "Home Automation",
-    "Solar Traking/ESP32.md",
-    "Home Automation/Home Automation.md",
-    "Iot_based_energy_managment.md",
-    "Presentation.md",
+    "ESP32.md",
     "Energy Monitoring/Energy Monitoring.md",
-    "Web_Site/Web_Site.md",
-    "2024-02-28.md",
+    "Iot_based_energy_managment.md",
+    "Pasted image 20240229113108.png",
+    "Pasted image 20240229113053.jpg",
+    "Home Automation/Home Automation.md",
+    "Pasted image 20240229112459.png",
     "Solar Traking/Solar Tracking.md",
+    "Web_Site/Web_Site.md",
+    "Presentation.md",
+    "Images",
+    "Images/Pasted image 20240229090022.png",
+    "Images/Pasted image 20240229085932.png",
+    "Images/Pasted image 20240229085907.png",
+    "Images/Pasted image 20240229085733.png",
+    "Home Automation",
+    "2024-02-28.md",
     "NodeMCU.md",
     "Solar Traking/Solar Tracking",
     "Solar Traking",

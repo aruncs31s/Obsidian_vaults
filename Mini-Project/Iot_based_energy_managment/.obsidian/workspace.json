@@ -11,8 +11,12 @@
             "id": "da1960eb0ac8072d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Iot_based_energy_managment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Iot_based_energy_managment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Iot_based_energy_managment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Iot_based_energy_managment.md"
+              }
             }
           }
         ],
@@ -142,22 +150,24 @@
   },
   "active": "da1960eb0ac8072d",
   "lastOpenFiles": [
+    "Images/esp32.png",
     "Iot_based_energy_managment.md",
-    "ESP32.md",
-    "Pasted image 20240229115956.png",
-    "Energy Monitoring/Energy Monitoring.md",
-    "Pasted image 20240229113108.png",
+    "Images/relayModule.png",
+    "Images/LDR.png",
+    "Images/SolarPanel.png",
+    "Images/PIR.png",
+    "Presentation.md",
+    "Images/Pasted image 20240229113108.png",
     "Pasted image 20240229113053.jpg",
+    "Images/Pasted image 20240229115956.png",
+    "Images/Pasted image 20240229112459.png",
+    "ESP32.md",
+    "Energy Monitoring/Energy Monitoring.md",
     "Home Automation/Home Automation.md",
-    "Pasted image 20240229112459.png",
     "Solar Traking/Solar Tracking.md",
     "Web_Site/Web_Site.md",
-    "Presentation.md",
     "Images",
     "Images/Pasted image 20240229090022.png",
-    "Images/Pasted image 20240229085932.png",
-    "Images/Pasted image 20240229085907.png",
-    "Images/Pasted image 20240229085733.png",
     "Home Automation",
     "2024-02-28.md",
     "NodeMCU.md",

@@ -38,7 +38,14 @@ tags: []
 
 ##### ESP32
 
-![[Pasted image 20240229090022.png]]
+
+<img src="/Images/esp32.png" alt="esp32" width="100" height="75" />
+
+
+
+
+
+
 
 ##### Relay Module
 ![[Pasted image 20240229112459.png]]

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da1960eb0ac8072d",
+            "id": "a81027dbaf3b7b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a8e1cd8f73f55ebe",
@@ -148,27 +149,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "da1960eb0ac8072d",
+  "active": "a81027dbaf3b7b0d",
   "lastOpenFiles": [
-    "Images/esp32.png",
+    "Solar Traking/Solar Tracking.md",
     "Iot_based_energy_managment.md",
+    "ESP32.md",
+    "Images/ldr_sensor.png",
+    "Pasted image 20240301012916.png",
+    "Images/project_block_diagram.png",
+    "Pasted image 20240301012840.png",
+    "Images/esp32_pinout.png",
+    "Web_Servers/Monitoring Server.md",
+    "Web_Servers/Monitroing Server.md",
+    "Web_Servers/Web_Site.md",
+    "Energy Monitoring/Energy Monitoring.md",
+    "Presentation.md",
+    "Energy Management/Energy Management.md",
+    "Home Automation/Home Automation.md",
+    "1709203057-CNOO.md",
+    "Images/esp32.png",
     "Images/relayModule.png",
     "Images/LDR.png",
     "Images/SolarPanel.png",
     "Images/PIR.png",
-    "Presentation.md",
-    "Images/Pasted image 20240229113108.png",
-    "Pasted image 20240229113053.jpg",
-    "Images/Pasted image 20240229115956.png",
-    "Images/Pasted image 20240229112459.png",
-    "ESP32.md",
-    "Energy Monitoring/Energy Monitoring.md",
-    "Home Automation/Home Automation.md",
-    "Solar Traking/Solar Tracking.md",
-    "Web_Site/Web_Site.md",
     "Images",
-    "Images/Pasted image 20240229090022.png",
-    "Home Automation",
+    "Energy Management",
     "2024-02-28.md",
     "NodeMCU.md",
     "Solar Traking/Solar Tracking",
@@ -178,7 +183,7 @@
     "1709061945-RVBF.md",
     "Energy Monitoring.md",
     "Energy Monitoring",
-    "Web_Site",
+    "Web_Servers",
     "Welcome.md"
   ]
 }

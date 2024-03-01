@@ -1,15 +1,24 @@
 ---
 id: Energy Monitoring
-aliases: []
-tags: []
+aliases: 
+tags:
 ---
+
+#Taks
+-  [ ] [Real Time Monitoring and Displaying](#real%20%time%20monitroing%and%displaying)
+-  [ ] [[Monitroing Server]]
+
+
+## Energy Monitoring
+
+- [Introduction](#introduction)
+- [Tasks](#tasks)
+- [Components Required](#components%20required)
+- [Block Diagram](#block%20diagram)
+- 
+##### Introduction
+
+
 
 #Website
 [[Web_Site]]
-
-#Taks
--  [ ] [Real Time Monitoring and Displaying] 
-
-
-#Componets_Required  
-1. [[ESP32]]

@@ -1,3 +1,9 @@
+---
+id: Linux
+aliases: []
+tags: []
+---
+
 
 ### **T-ui Apps**
 1. [[Yazi]]:Terminal file explorer written in Rust BTW

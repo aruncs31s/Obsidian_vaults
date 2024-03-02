@@ -3,11 +3,9 @@ id: GcekWifi
 aliases: []
 tags: []
 ---
-
 # Gcek Wifi
 - [ ] [Connect to wifi using Curl](#connect%20to%20wifi%20using%20curl)
 - [ ] [Connect to wifi using esp32](#2)
-- [ ] 
 
 ---
 #### Connect to wifi using Curl

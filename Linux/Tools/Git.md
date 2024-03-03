@@ -9,8 +9,9 @@ tags: []
 - [Installation](#installation)
 - [Initial Setup](#initial%20setup)
 - [Basics](#basics)
-    - [Creating a repo]()
-    - [Cloning a repo]()
+    - [Getting a Git repo]()
+        - [Adding local directory to git](Linux/Tools/1709452138-SMNE.md)
+        - [Cloning a repo]()
     - [Submitting that change]()
 
 
@@ -68,9 +69,25 @@ git config --global user.email youremail@google.com
 ```bash
 git config --list 
 ```
+---
+
+
 
 
 ### **Basics**
+- [Creatig a repo](#creating%20a%20repo)
+
+
+
+
+
+#### Creating a repo
+
+
+
+
+
+
 
 
 

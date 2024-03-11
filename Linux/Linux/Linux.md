@@ -36,3 +36,9 @@ git pull
 
 
 
+https://ieee-iv.org/2024/f1tenth-championship/
+
+
+ESP8266 sirs mac 40:91:51:52:ED:96
+
+Euler 40``

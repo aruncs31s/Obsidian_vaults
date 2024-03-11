@@ -24,10 +24,10 @@ source : chatgpt
 
 - after modifing
 ```bash
-curl -d "username="
-
+curl -d "usrname=abc&newpasswd=def&terms=on&page_sid=internal&org_url=http%3A%2F%2F172.16.0.2%3A2280%2F&update_btn=Login"
 ```
 
+##### post request
 
 #gcekWifipost
 
@@ -55,7 +55,10 @@ usrname=abc&newpasswd=def&terms=on&page_sid=internal&org_url=http%3A%2F%2F172.16
 - org_url: Original URL
 - update_btn: Button indicating login action
 
+##### Esp32 code
+
 #esp32ByChatGpt 
+
 ```cpp
 #include <WiFi.h>
 #include <HTTPClient.h>

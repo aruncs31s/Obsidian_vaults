@@ -3,19 +3,16 @@ id: Memory
 aliases: []
 tags: []
 ---
-#### Syllabus 
 
-2. Memory
+### Memory
+
+[[Memory PDFs]]
+
+#### Syllabus 
 - Memory devices and systems – ROM-Flash, EEPROM,RAM- SRAM, DRAM, Cache memory, memory mapping and addresses,
 - memory management unit– DMA
 
 
 
-[[Memory PDFs]]
-- Memory devices and systems ROM-Flash
--  EEPROM
-- RAM,SRAM,DRAM
-- Cache memory, memory mapping and addresses
-- memory management unit– DMA .
 
 

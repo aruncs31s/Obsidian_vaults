@@ -23,7 +23,7 @@ tags: []
 - []
 - [[Serial Comm]]
 - [[Memory]]
-- [[I/O Devices]]
+- [[I_O Devices]]
 ##### Serial Comm
 ![[Pasted image 20240311233704.png|400x300]]
 

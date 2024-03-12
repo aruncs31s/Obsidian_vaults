@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-[[Modue]]
+[[Module 2 PDFs]]
 #### Syllabus
 1. Communication Devices
 - Serial Communication Standards and Devices - UART, HDLC and SPI.

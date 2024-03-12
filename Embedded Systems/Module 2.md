@@ -1,3 +1,13 @@
+---
+id: Module 2
+aliases: []
+tags: []
+---
+
+#### Syllabus
+1. Communication 
+
+
 #### Topics
 
 - [[Parity]]

@@ -1,4 +1,4 @@
-[[Memo]]
+[[Memory PDFs]]
 - Memory devices and systems ROM-Flash
 -  EEPROM
 - RAM,SRAM,DRAM

@@ -1,5 +1,4 @@
 
-
 ##### I2C  **Inter-Integrated Circuit**
 
 https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/

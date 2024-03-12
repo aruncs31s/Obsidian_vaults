@@ -18,7 +18,6 @@ tags: []
 - ISR – Device drivers for handling ISR
 - Shared data problem, Interrupt latency
 
-
 #### Topics
 
 - [[Serial Comm]]

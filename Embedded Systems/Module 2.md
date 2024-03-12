@@ -18,13 +18,15 @@ tags: []
 - ISR – Device drivers for handling ISR
 - Shared data problem, Interrupt latency
 
+
 #### Topics
 
-- [[Parity]]
-- []
 - [[Serial Comm]]
 - [[Memory]]
 - [[I_O Devices]]
+
+#RelatedTopics
+1.[[Parity]]
 ##### Serial Comm
 ![[Pasted image 20240311233704.png|400x300]]
 

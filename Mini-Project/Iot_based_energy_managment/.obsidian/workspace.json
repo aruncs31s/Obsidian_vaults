@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "edc0d306e5a000dd",
+        "id": "4d8083a222f0a50d",
         "type": "tabs",
         "children": [
           {
-            "id": "a81027dbaf3b7b0d",
+            "id": "38daddabd537c43e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iot_based_energy_managment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a8e1cd8f73f55ebe",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iot_based_energy_managment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iot_based_energy_managment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iot_based_energy_managment.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,11 +141,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a81027dbaf3b7b0d",
+  "active": "38daddabd537c43e",
   "lastOpenFiles": [
-    "Solar Traking/Solar Tracking.md",
+    "Energy Monitoring/Energy Monitoring.md",
     "Iot_based_energy_managment.md",
-    "ESP32.md",
+    "Reference Links/Reference Links.md",
+    "Reference Links",
+    "ESP32/ESP32.md",
+    "().md",
+    "Pasted image 20240316103329.png",
+    "Energy Management/Energy Management.md",
+    "Presentation.md",
+    "ESP32",
+    "sketch_mar15a/sketch_mar15a.ino",
+    "sketch_mar15a",
+    "Solar Traking/Solar Tracking.md",
     "Images/ldr_sensor.png",
     "Pasted image 20240301012916.png",
     "Images/project_block_diagram.png",
@@ -161,16 +164,12 @@
     "Web_Servers/Monitoring Server.md",
     "Web_Servers/Monitroing Server.md",
     "Web_Servers/Web_Site.md",
-    "Energy Monitoring/Energy Monitoring.md",
-    "Presentation.md",
-    "Energy Management/Energy Management.md",
     "Home Automation/Home Automation.md",
     "1709203057-CNOO.md",
     "Images/esp32.png",
     "Images/relayModule.png",
     "Images/LDR.png",
     "Images/SolarPanel.png",
-    "Images/PIR.png",
     "Images",
     "Energy Management",
     "2024-02-28.md",
@@ -181,8 +180,6 @@
     "Solar Tracking",
     "1709061945-RVBF.md",
     "Energy Monitoring.md",
-    "Energy Monitoring",
-    "Web_Servers",
     "Welcome.md"
   ]
 }

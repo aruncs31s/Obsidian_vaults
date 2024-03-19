@@ -15,6 +15,7 @@ tags:
 - [Tasks](#tasks)
 - [Components Required](#components%20required)
 - [Block Diagram](#block%20diagram)
+- [References](#references)
 - 
 ##### Introduction
 
@@ -22,3 +23,6 @@ tags:
 
 #Website
 [[Web_Site]]
+
+#### References
+[[Reference Links#Energy Monitoring]]

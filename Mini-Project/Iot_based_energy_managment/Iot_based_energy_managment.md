@@ -1,3 +1,9 @@
+---
+id: Iot_based_energy_managment
+aliases: []
+tags: []
+---
+
 
 # Iot Based Energy Management
 - [Introduction](#introduction)
@@ -9,7 +15,7 @@
 
 ---
 
-#### Tasks
+#### Todo
 - [ ] [[Energy Monitoring]] 
 - [ ] [[Solar Tracking]]
 - [ ] [[Energy Management]]
@@ -105,6 +111,7 @@ Relays are electro-mechanical switches that are used to control the flow of elec
 ---
 
 ##### LDR Sensor
+
 
 ![LDR Sensor|300x200](./Images/LDR.png)
 

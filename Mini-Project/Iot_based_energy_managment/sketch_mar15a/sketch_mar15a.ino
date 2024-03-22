@@ -15,6 +15,9 @@ void setup() {
 }
 int sensor_output;
 void loop() {
-  Serial.println(digitalRead(PIR_SENSOR_OUTPUT_PIN) + "\n"); 
+   bool k =  digitalRead(PIR_SENSOR_OUTPUT_PIN); 
+  Serial.println(k);
+
   delay(2000);
+  
 }

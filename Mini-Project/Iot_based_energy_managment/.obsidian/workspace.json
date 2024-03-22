@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8083a222f0a50d",
+        "id": "dae71d04adcc0335",
         "type": "tabs",
         "children": [
           {
-            "id": "38daddabd537c43e",
+            "id": "7e7a738006064b39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Solar Traking/SolarTrackingCodes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ffee23e7be6fece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solar Traking/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7a9ba18a4402da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESP32/ESP32.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solar Traking/SolarTrackingCodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solar Traking/SolarTrackingCodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Solar Traking/SolarTrackingCodes.md"
+              }
             }
           }
         ],
@@ -141,45 +173,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "38daddabd537c43e",
+  "active": "7e7a738006064b39",
   "lastOpenFiles": [
-    "Energy Monitoring/Energy Monitoring.md",
-    "Iot_based_energy_managment.md",
+    "Solar Traking/solarTrackingCode/Solar_tracking_using_esp32/Solar_tracking_using_esp32.ino",
+    "Solar Traking/solarTrackingCode/Solar_tracking_using_esp32/Solar_tracker_using_esp32.ino",
+    "Solar Traking/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
+    "Solar Traking/SolarTrackingCodes.md",
+    "Solar Traking/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.ino",
+    "Solar Traking/solarTrackingCode/Solar_tracking_using_arduino/solarTrackingCodeArduino.ino.md",
+    "Solar Traking/solarTrackingCode/Solar_tracking_using_arduino",
+    "Solar Traking/solarTrackingCode/Solar_tracking_usig_arduino/solarTrackingCodeArduino.ino.md",
+    "Solar Traking/solarTrackingCode/Solar_tracking_usig_arduino",
+    "Solar Traking/solarTrackingCode/Solar_tracking_using_esp32",
+    "Solar Traking/solarTrackingCode/Solar_tracker)using_esp32.ino",
+    "Solar Traking/solarTrackingCode/solarTrackingCodeArduino/solarTrackingCodeArduino.ino.md",
+    "Solar Traking/solarTrackingCode/solarTrackingCodeArduino",
+    "Solar Traking/solarTrackingCode",
+    "Solar Traking/Solar_tracker_using_esp32.ino",
     "Reference Links/Reference Links.md",
-    "Reference Links",
+    "solarTrackingCode/solarTrackingCodeArduino/solarTrackingCodeArduino.ino.md",
     "ESP32/ESP32.md",
-    "().md",
-    "Pasted image 20240316103329.png",
-    "Energy Management/Energy Management.md",
-    "Presentation.md",
-    "ESP32",
-    "sketch_mar15a/sketch_mar15a.ino",
-    "sketch_mar15a",
+    "solarTrackingCode/solarTrackingCodeArduino",
+    "Pasted image 20240322043007.png",
+    "Images/esp32_pinout.png",
+    "Images/SolarPanel.png",
+    "Images/relayModule.png",
+    "Servo Mo.md",
     "Solar Traking/Solar Tracking.md",
+    "Iot_based_energy_managment.md",
+    "ComponentsRequired.md",
+    "Energy Monitoring/Energy Monitoring.md",
+    "Energy Management/Energy Management.md",
+    "Images/Pasted image 20240320224627.png",
+    "Images/Pasted image 20240316103329.png",
+    "().md",
+    "Presentation.md",
     "Images/ldr_sensor.png",
     "Pasted image 20240301012916.png",
     "Images/project_block_diagram.png",
     "Pasted image 20240301012840.png",
-    "Images/esp32_pinout.png",
     "Web_Servers/Monitoring Server.md",
     "Web_Servers/Monitroing Server.md",
     "Web_Servers/Web_Site.md",
     "Home Automation/Home Automation.md",
     "1709203057-CNOO.md",
-    "Images/esp32.png",
-    "Images/relayModule.png",
-    "Images/LDR.png",
-    "Images/SolarPanel.png",
-    "Images",
-    "Energy Management",
     "2024-02-28.md",
     "NodeMCU.md",
-    "Solar Traking/Solar Tracking",
-    "Solar Traking",
-    "Solar",
-    "Solar Tracking",
     "1709061945-RVBF.md",
-    "Energy Monitoring.md",
-    "Welcome.md"
+    "Energy Monitoring.md"
   ]
 }

@@ -1,21 +1,6 @@
----
-id: Solar Tracking
-aliases: []
-tags: []
----
-
-# Solar Tracking
-
-#Defenition
-#### Todos
- - [ ] *Tracks Sun and adjust the pannel position using stepper motor*
-
-#working
-- [LDR](../Iot_based_energy_managment.md#pir%20sensor) sensor
-
-
-#TestCode
-```c
+/* 
+Source : https://github.com/neeraj95575/Solar_tracker_using_arduino
+*/
 #include <Servo.h>
 
 Servo servohori; //horizontal servo(BOTTOM SERVO)
@@ -109,11 +94,3 @@ void loop()
   }
   delay(50);
 }
-
-```
-
-#WholeCode
-
-
-
-

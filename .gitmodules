@@ -1,3 +1,6 @@
 [submodule "obsidian_btech_notes"]
 	path = obsidian_btech_notes
 	url = https://github.com/aruncs31s/obsidian_btech_notes
+[submodule "Iot_based_smart_energy_managment_system"]
+	path = Iot_based_smart_energy_managment_system
+	url = https://github.com/aruncs31s/Iot_based_smart_energy_managment_system/
